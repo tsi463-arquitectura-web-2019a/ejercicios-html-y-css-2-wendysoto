@@ -1,0 +1,63 @@
+
+.body{
+	background-color: #E8E8E7;
+	width: 50%;
+	margin: 0 auto;
+}
+.divGreen{
+	background-color: #8BCC98;
+	height: 5px;
+	border: solid #8BCC98;
+}
+
+.body_text{
+
+	width: 50%;
+	margin: 0 auto;
+	background-color: white;
+	padding: 0px 10px 10px 10px;
+	margin-top: 10px;
+}
+img{
+	width: auto;
+	margin-top: 15px;
+    height: 375px;
+    opacity: 0.8;
+}
+.fontName{
+	color: white;
+}
+
+/*bb*/
+
+.container {
+  position: relative;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -130%);
+  font-size: 18px;
+  border: 1px solid white;  
+  color: white;
+  text-align: center;
+  padding-right: 30px ;
+  padding-left:  30px;
+  margin: 0 auto; 
+
+
+}
+.fontP1{
+	margin-top: -1px;
+}
+.fontP2{
+    margin-top: -25px;
+}
+
+/*img { 
+  width: 100%;
+  height: auto;
+  opacity: 0.5;
+}*/

@@ -1,0 +1,92 @@
+
+.body{
+width: 50%;
+margin: 0 auto;
+font-family:  sans-serif;
+}
+
+.imgMain{
+	margin-top: 20px;
+    height: 500px;
+    border-top: 2px  solid #BCBBBB;
+    padding-top: 20px;
+}
+
+.title{
+
+	/*border-bottom: 3px solid #BCBBBB;*/
+	float: right ;
+	text-align: right;
+	color:#747704;
+}
+.title h1{
+	font-weight: normal;
+}
+
+.log{
+	float: left;
+}
+
+.formatText{
+
+	color:#747704;
+	text-align: center;
+	    margin-top: -5%;
+
+}
+
+.context{
+	   letter-spacing: -1.5px;
+	   color: #BCBBBB;
+	   font-size: 15px; 
+
+}
+
+.container1{
+float: left;
+padding: 30px 20px 10px 0px;
+
+}
+
+.container2{
+
+float: center;
+margin: 0 auto;
+padding: 30px 20px 10px 10px;
+
+}
+.container2 img{
+
+	margin-left: -30%;
+
+}
+
+
+.container3{
+
+float: right;
+margin-top: -128px;
+
+}
+.word{
+
+	color: #BCBBBB;
+
+	
+
+}
+.add{
+	width: 50%;
+	margin: 0 auto;
+	color:#747704
+	margin-left 20px;
+}
+
+.add p{
+	text-align: center;
+	margin-left: -20%;
+	margin-top: 5px;
+}
+.add b{
+	color: #747704;
+}
